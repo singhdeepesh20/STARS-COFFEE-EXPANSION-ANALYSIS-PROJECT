@@ -2,25 +2,57 @@
 
 ![Company Logo](https://raw.githubusercontent.com/singhdeepesh20/STARS-COFFEE-EXPANSION-ANALYSIS-PROJECT/main/DALL%C2%B7E%202025-03-29%2015.35.33%20-%20A%20coffee-themed%20background%20featuring%20a%20warm%20and%20cozy%20ambiance%20with%20coffee%20beans%2C%20steam%2C%20and%20a%20subtle%20coffee%20cup%20design.%20The%20text%20'Stars%20Coffee'%20should.webp)
 
-## 📌 About the Project  
-This project focuses on **expansion analysis using SQL** for Stars Coffee. The goal is to analyze business growth, sales trends, and customer data to make strategic decisions.  
 
-## 🛠️ Technologies Used  
-- SQL  
-- Python  
-- Data Visualization  
+## Key Questions
+1. **Coffee Consumers Count**  
+   How many people in each city are estimated to consume coffee, given that 25% of the population does?
 
-## 📊 Business Insights  
-- **Store Expansion Strategy**  
-- **Customer Trends Analysis**  
-- **Revenue Forecasting**  
+2. **Total Revenue from Coffee Sales**  
+   What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
 
-## 📁 Files Included  
-- `SQL Queries`  
-- `Data Analysis Reports`  
-- `Visualizations`  
+3. **Sales Count for Each Product**  
+   How many units of each coffee product have been sold?
 
-## 🚀 How to Use  
-1. Clone the repository  
-   ```bash
+4. **Average Sales Amount per City**  
+   What is the average sales amount per customer in each city?
+
+5. **City Population and Coffee Consumers**  
+   Provide a list of cities along with their populations and estimated coffee consumers.
+
+6. **Top Selling Products by City**  
+   What are the top 3 selling products in each city based on sales volume?
+
+7. **Customer Segmentation by City**  
+   How many unique customers are there in each city who have purchased coffee products?
+
+8. **Average Sale vs Rent**  
+   Find each city and their average sale per customer and avg rent per customer
+
+9. **Monthly Sales Growth**  
+   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+
+10. **Market Potential Analysis**  
+    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
+    
+
+## Recommendations
+After analyzing the data, the recommended top three cities for new store openings are:
+
+**City 1: Pune**  
+1. Average rent per customer is very low.  
+2. Highest total revenue.  
+3. Average sales per customer is also high.
+
+**City 2: Delhi**  
+1. Highest estimated coffee consumers at 7.7 million.  
+2. Highest total number of customers, which is 68.  
+3. Average rent per customer is 330 (still under 500).
+
+**City 3: Jaipur**  
+1. Highest number of customers, which is 69.  
+2. Average rent per customer is very low at 156.  
+3. Average sales per customer is better at 11.6k.
+
+---
+
    git clone https://github.com/singhdeepesh20/STARS-COFFEE-EXPANSION-ANALYSIS-PROJECT.git
