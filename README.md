@@ -1,4 +1,4 @@
-# ⭐ STARS-COFFEE-EXPANSION-ANALYSIS-PROJECT  
+# ⭐ STARS-COFFEE-EXPANSION-ANALYSIS-PROJECT-USING-SQL
 
 ![Company Logo](https://raw.githubusercontent.com/singhdeepesh20/STARS-COFFEE-EXPANSION-ANALYSIS-PROJECT/main/DALL%C2%B7E%202025-03-29%2015.35.33%20-%20A%20coffee-themed%20background%20featuring%20a%20warm%20and%20cozy%20ambiance%20with%20coffee%20beans%2C%20steam%2C%20and%20a%20subtle%20coffee%20cup%20design.%20The%20text%20'Stars%20Coffee'%20should.webp)
 
@@ -55,4 +55,4 @@ After analyzing the data, the recommended top three cities for new store opening
 
 ---
 
-   git clone https://github.com/singhdeepesh20/STARS-COFFEE-EXPANSION-ANALYSIS-PROJECT.git
+   git clone https://github.com/singhdeepesh20/STARS-COFFEE-EXPANSION-ANALYSIS-PROJECT-USING-SQL.git
